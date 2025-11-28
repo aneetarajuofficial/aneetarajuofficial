@@ -1,4 +1,4 @@
-## Hi there 👋
+ABOUT ME 👋
 
 <!--
 **aneetarajuoffici# 💫 About Me:
@@ -24,11 +24,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aneetarajuofficial&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->al/aneetarajuofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->al/aneetarajuofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-Here are some ideas to get you started:
 
-- 🔭# 💫 About Me:
 <br>🌱 I’m currently learning programmig,computer networks<br><br>💬I am a BCA student who is interested in computer applications in general.<br><br>I like exploring how different technologies work together.<br><br>My studies help me build practical skills for my future career.<br><br>I try to keep improving my knowledge through regular practice.<br><br>My goal is to become an IT professional in the future.
 
 
